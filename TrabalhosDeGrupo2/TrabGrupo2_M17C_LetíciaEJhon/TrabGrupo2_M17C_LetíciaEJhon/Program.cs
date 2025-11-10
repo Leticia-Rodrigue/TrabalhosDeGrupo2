@@ -31,7 +31,7 @@ namespace TrabGrupoM17C_LetíciaEJhon
                     maiornumero = i;
                 }
             }
-            Console.WriteLine("O maior numero é " + vetor[maiornumero] + " e esta na posiçao " + maiornumero + 1 + "º de 1-10");
+            Console.WriteLine("O maior numero é ++++++++++++" + vetor[maiornumero] + " e esta na posiçao " + maiornumero + 1 + "º de 1-10");
         }
     }
 }
